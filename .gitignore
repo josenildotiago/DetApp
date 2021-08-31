@@ -11,4 +11,9 @@ node_modules/
 npm-debug.log
 yarn-error.log
 
+# config
 src/config.js
+
+# bundlers
+android/
+ios/
