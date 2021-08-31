@@ -4,12 +4,18 @@ import { NavigationContainer } from '@react-navigation/native';
 import UserContextProvider from './src/contexts/UserContext';
 /** MainStack */
 import MainStack from './src/stacks/MainStack';
+import { StatusBar } from 'react-native';
 
 export default () => {
   return (
     <UserContextProvider>
       <NavigationContainer>
-        <MainStack/>
+        <StatusBar
+          barStyle="light-content"
+          backgroundColor="transparent"
+          translucent
+        />
+        <MainStack />
       </NavigationContainer>
     </UserContextProvider>
   );
