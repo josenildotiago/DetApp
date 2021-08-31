@@ -1,9 +1,9 @@
 import React from "react";
 import { createStackNavigator } from "@react-navigation/stack";
 
-import Preload from "../screnns/Preload";
-import Login from "../screnns/Login";
-import Logout from "../screnns/Logout";
+import Preload from "../screens/Preload";
+import Login from "../screens/Login";
+import Logout from "../screens/Logout";
 import MainTab from './MainTab';
 
 const Stack = createStackNavigator();

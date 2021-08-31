@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components/native';
 
 export const Container = styled.SafeAreaView`
-    background-color: #01A9E2;
+    background-color: #0760A1;
     flex: 1;
     justify-content: center;
     align-items: center;
