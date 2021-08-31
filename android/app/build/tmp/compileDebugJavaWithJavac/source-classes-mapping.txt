@@ -1,0 +1,14 @@
+com/detapp/BuildConfig.java
+ com.detapp.BuildConfig
+com/detapp/MainApplication.java
+ com.detapp.MainApplication
+ com.detapp.MainApplication$1
+com/detapp/ReactNativeFlipper.java
+ com.detapp.ReactNativeFlipper
+ com.detapp.ReactNativeFlipper$1
+ com.detapp.ReactNativeFlipper$2
+ com.detapp.ReactNativeFlipper$2$1
+com/detapp/MainActivity.java
+ com.detapp.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
